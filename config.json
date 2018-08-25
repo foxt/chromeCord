@@ -1,7 +1,7 @@
 {
     "appName": "Google Chrome Canary",
-    "showWholeURL": true,
-    "showTitle": true,
+    "showWholeURL": false,
+    "showTitle": false,
     "discordID": "482816369348444170",
     "keys": ["githubdotcom","redditdotcom","thelmgndotcom","twitterdotcom","youtubedotcom","discordappdotcom"],
     "defaultKey": "globe"
