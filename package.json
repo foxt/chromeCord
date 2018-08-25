@@ -1,0 +1,31 @@
+{
+  "name": "chromecord",
+  "version": "1.0.0",
+  "description": "Tells all your Discord friends what website you're on. (Darwin only)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thelmgn/chromecord.git"
+  },
+  "keywords": [
+    "chrome",
+    "darwin",
+    "macos",
+    "discord",
+    "richpresense"
+  ],
+  "author": "theLMGN",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/thelmgn/chromecord/issues"
+  },
+  "homepage": "https://github.com/thelmgn/chromecord#readme",
+  "dependencies": {
+    "applescript": "^1.0.0",
+    "discord-rpc": "^3.0.0-beta.12",
+    "discord.js": "^11.3.2"
+  }
+}
