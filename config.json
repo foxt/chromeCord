@@ -1,7 +1,12 @@
 {
-    "appName": "Google Chrome Canary",
+    "appName": "Chrome Stable",
     "showWholeURL": false,
     "showTitle": true,
+    "whitelistEnabled": true,
+    "whitelist": ["github.com","reddit.com","thelmgn.com","twitter.com","youtube.com","discordapp.com","roblox.com"],
+    "blacklist": ["pornhub.com","myreadingmanga.info","drive.google.com","google.com","duckduckgo.com"],
+
+
     "discordID": "482816369348444170",
     "keys": ["githubdotcom","redditdotcom","thelmgndotcom","twitterdotcom","youtubedotcom","discordappdotcom"],
     "defaultKey": "globe"
